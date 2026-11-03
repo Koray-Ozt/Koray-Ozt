@@ -7,7 +7,9 @@
 I build practical software with an emphasis on clear architecture, reliable integrations, and measurable results.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Koray--Ozt-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Koray-Ozt)
-[![Email](https://img.shields.io/badge/Email-Contact-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:forpersonalkoray@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koray-%C3%B6zt%C3%BCrk/)
+[![Medium](https://img.shields.io/badge/Medium-Read_my_articles-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@forpersonalkoray)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:forpersonalkoray@gmail.com)
 
 </div>
 
@@ -63,6 +65,6 @@ Backend reliability, asynchronous processing, practical AI integrations, and ope
 
 **Open to conversations about Python development, backend engineering, and automation.**
 
-[Get in touch](mailto:forpersonalkoray@gmail.com) · [View repositories](https://github.com/Koray-Ozt?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/koray-%C3%B6zt%C3%BCrk/) · [Medium](https://medium.com/@forpersonalkoray) · [Email](mailto:forpersonalkoray@gmail.com) · [Repositories](https://github.com/Koray-Ozt?tab=repositories)
 
 </div>
